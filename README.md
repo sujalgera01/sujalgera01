@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Sup <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Sujal Gera</h1>
+<h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height= "30px"> This is Sujal Gera</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
 
@@ -67,8 +67,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sujal-gera-355847177/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://github.com/sujalgera01" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
+<a href="https://github.com/sujalgera01" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
+    <a href = "https://twitter.com/SujalGera" target="_blank"><img src="https://img.icons8.com/color/twitter"/></a>
+    <a href = "https://sujalgera01.github.io/My-Portfolio/" target="_blank"><img src="https://img.icons8.com/color/profile"/></a>
 </p>
 
 ## ❤ Views and Followers
